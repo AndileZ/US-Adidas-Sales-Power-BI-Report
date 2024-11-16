@@ -43,7 +43,7 @@ The dataset used in this report includes:
 
 ### Installation
 1. Clone or download this repository.
-2. Open the `Adidas_Sales_Report.pbix` file in Power BI Desktop.
+2. Open the `US Adidas Sales Report.pbix` file in Power BI Desktop.
 3. Refresh the dataset if necessary by connecting to the data source.
 
 ### Usage
